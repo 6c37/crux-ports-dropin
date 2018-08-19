@@ -26,5 +26,6 @@ drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/pkgconf.1.gz
 drwxr-xr-x	root/root	usr/share/man/man5/
 -rw-r--r--	root/root	usr/share/man/man5/pc.5.gz
+-rw-r--r--	root/root	usr/share/man/man5/pkgconf-personality.5.gz
 drwxr-xr-x	root/root	usr/share/man/man7/
 -rw-r--r--	root/root	usr/share/man/man7/pkg.m4.7.gz
